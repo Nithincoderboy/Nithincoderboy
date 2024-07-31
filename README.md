@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on highly logical issues
 - 📫 How to reach me through my LinkedIn profile 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: You will, if you can , if you can't, try untill you will
+- ⚡ Fun fact: You will, if you can , if you can't, try untill you will - NITHIN
 - ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
